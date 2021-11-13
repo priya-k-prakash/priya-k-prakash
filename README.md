@@ -40,8 +40,9 @@ PySpark Altair/Seaborn GenSim FastText tfhub FastAPI Streamlit
   Customer Experience and
   Operations Analytics
      
-  Since 2019, I have been in the field of Machine Intelligence, and the roamnce has not died down yet :)
-  Largely because of Research Intrest that landed my way.
+  * Since 2019, I have been in the field of Machine Intelligence, and the roamnce has not died down yet :)
+  
+  * Largely because of Research Intrest that landed my way.
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***What are my mottos***
 
