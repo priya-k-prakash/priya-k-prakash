@@ -36,11 +36,11 @@ PySpark Altair/Seaborn GenSim FastText tfhub FastAPI Streamlit
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Academic Background*** Msc- Machine Intelligence 
     I have been working in  ML projects at Datahub technologies Research and Development for several teams such as
-  ML Centre of Excellence,
-  Customer Experience and
-  Operations Analytics
+  1. ML Centre of Excellence,
+  2. Customer Experience and
+  3. Operations Analytics
      
-  * Since 2019, I have been in the field of Machine Intelligence, and the roamnce has not died down yet :)
+  * Since 2019, I have been in the field of Machine Intelligence, and the romance has not died down yet :)
   
   * Largely because of Research Intrest that landed my way.
 
