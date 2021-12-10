@@ -42,6 +42,14 @@ PySpark Altair/Seaborn GenSim FastText tfhub FastAPI Streamlit
   
   * Largely because of Research Intrest that landed my way.
 
+
+🔭 Reseach-wise, I mainly focus on:
+1. NLP
+2. Cognitive - Computer Vision
+3. Medical Imaging AI
+4. data mining topics related to scalability, reliability, and automation and
+information systems questions related to interaction, trade-off, and cooperation between human and “AI”
+
 ***What are my mottos***
 
   * To keep upskilling my technical knowledge
